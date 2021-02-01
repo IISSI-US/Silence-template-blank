@@ -1,2 +1,2 @@
-# Sample project
-This project contains an example project that is downloaded by default using the `silence new` command.
+# Silence blank project
+This is an empty Silence project.
