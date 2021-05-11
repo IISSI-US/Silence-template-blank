@@ -20,7 +20,7 @@ const messageRenderer = {
         let errorsDiv = getErrorsDiv();
 
         if (errorsDiv === null) {
-            console.error('You tried to render the following message, however, a ' +
+            console.error("You tried to render the following message, however, a " +
                 `<div id="${msgsDivID}"> could not be found in your view to show it there:`);
             console.error(message);
             return;

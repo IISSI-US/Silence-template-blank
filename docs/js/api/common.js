@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 
-import { sessionManager } from '../utils/session.js';
+import { sessionManager } from "/js/utils/session.js";
 
 const BASE_URL = "/api/v1";
 
